@@ -2,3 +2,6 @@
 	path = pongrobot_perception
 	url = https://github.com/pongrobot/pongrobot_perception.git
 	branch = pongrobot-v2/refactor
+[submodule "pongrobot_hw"]
+	path = pongrobot_hw
+	url = https://github.com/pongrobot/pongrobot_hw.git
