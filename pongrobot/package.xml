@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>pongrobot</name>
+  <version>2.0.0</version>
+  <description>Pongrobot catkin metapackage </description>
+  <license>BSD</license>
+  <maintainer email="agut@comcast.net">Andrew Gutierrez</maintainer>
+  <author email="agut@comcast.net">Andrew Gutierrez</author>
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>pongrobot_perception</exec_depend>
+  <exec_depend>pongrobot_actuation</exec_depend>
+  <export><metapackage/></export>
+</package>
